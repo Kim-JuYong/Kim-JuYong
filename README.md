@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**📬 E-mail :** juyong4190@gmail.com
+
+**📝 Blog** : [https://velog.io/@jyo_ong](https://velog.io/@jyo_ong)
+
+**🏫  부산대학교 정보컴퓨터공학부** (2017.03~ )
