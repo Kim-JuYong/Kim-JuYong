@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**📋 [Portfolio][Notion](https://www.notion.so/88d191d4eb6746caaeaea11733b6f563)
+📋 [**Portfolio**](https://www.notion.so/88d191d4eb6746caaeaea11733b6f563)
 
 **📬 E-mail :** juyong4190@gmail.com
 
