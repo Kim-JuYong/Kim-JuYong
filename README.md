@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 **📝 Blog** : [https://velog.io/@jyo_ong](https://velog.io/@jyo_ong)
 
 **🏫  부산대학교 정보컴퓨터공학부** (2017.03~ )
+
+**📋 Portfolio** : https://www.notion.so/88d191d4eb6746caaeaea11733b6f563
